@@ -19,4 +19,5 @@ To perform the training and simulation of the pendulum:
 
 ## Visualization
 To visualize the pendulum's behavior and the learning process, ensure you are running the scripts in an environment that supports HTML5 video rendering.
-To run in VS Code, run the file using "Run Current File in interactive window" option.
+To run in VS Code, run the file using "Run Current File in interactive window" option. The visualization should look like this -
+https://github.com/omkarsawant99/Projects/assets/112906388/1cae75e0-1079-459f-948c-fe9bbede978b
