@@ -13,7 +13,7 @@ You can install the required Python libraries with pip:
 `pip install numpy matplotlib scipy`
 
 ## How to Run
-To perform the training and simulation of the pendulum:
+To perform the training and simulation of the pendulum, simply run the main.py script:
 
 `python main.py`
 
